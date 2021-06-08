@@ -79,3 +79,17 @@ h1 {
     text-align: center;
     width: 60%;
 }
+
+.main--link {
+    color: #0e83cd;
+    font-size: 12px;
+    margin-top: 10px;
+    outline: none;
+    text-decoration: none;
+}
+
+.main--link:hover{
+    color: whitesmoke;
+    transform: translateY(3px);
+    transition: 1s;
+}
